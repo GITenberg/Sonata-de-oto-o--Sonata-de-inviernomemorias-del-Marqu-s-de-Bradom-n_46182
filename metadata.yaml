@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3562
     wikipedia: http://en.wikipedia.org/wiki/Ram%C3%B3n_del_Valle-Incl%C3%A1n
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46182#Sonata-de-oto-o--Sonata-de-inviernomemorias-del-Marqu-s-de-Bradom-n
 gutenberg_issued: '2014-07-03'
 gutenberg_type: Text
 identifiers:
