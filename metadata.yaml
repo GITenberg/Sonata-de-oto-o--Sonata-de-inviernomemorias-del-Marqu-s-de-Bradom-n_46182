@@ -1,0 +1,33 @@
+_repo: Sonata-de-oto-o--Sonata-de-inviernomemorias-del-Marqu-s-de-Bradom-n_46182
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46182-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Valle-Inclán, Ramón del
+    aliases:
+    - Montenegro, Ramon Maria del Valle Inclan y
+    - Del Valle-Inclán, Ramón
+    - Inclán, Ramón del Valle
+    - Valle-Inclan, Ramon del
+    - Montenegro, Ramón María del Valle Inclán y
+    birthdate: 1866
+    deathdate: 1936
+    gutenberg_agent_id: '3562'
+    url: http://www.gutenberg.org/2009/agents/3562
+    wikipedia: http://en.wikipedia.org/wiki/Ram%C3%B3n_del_Valle-Incl%C3%A1n
+description: ''
+gutenberg_issued: '2014-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46182'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish fiction -- 20th century'
+title: 'Sonata de otoño; Sonata de invierno: memorias del Marqués de Bradomín'
+url: http://www.gutenberg.org/ebooks/46182
